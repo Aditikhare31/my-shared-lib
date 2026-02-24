@@ -4,3 +4,4 @@ date
 echo "Build completed successfully"
 Trigger the project
 Trigger the project with email notification
+Trigger email notification automatically
